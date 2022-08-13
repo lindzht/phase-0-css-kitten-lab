@@ -3,7 +3,7 @@ html {
 }
 
 img {
-  position: relative;
+  /* position: relative; */
   z-index: 11;
   cursor: pointer;
 }
